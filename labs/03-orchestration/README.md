@@ -21,9 +21,3 @@ In this lab, we'll walk through the basics of creating Vectors using Embeddings 
 [Qdrant](03-Qdrant/qdrant.ipynb)
 
 In this lab, we'll walk through using an open source vector store called Qdrant.
-
-## 04-ACS
-
-[Azure Cognitive Search](04-ACS/acs.ipynb)
-
-In this lab, we'll walk through using one of Azure's vector stores, **Azure Cognitive Search**.
