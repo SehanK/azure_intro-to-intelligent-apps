@@ -24,6 +24,8 @@ On the next page, you should see a list of deployed services. If you have one an
 
 On the **Develop** page you will see values for **Key 1**, **Key 2**, **Location / Region** and **Endpoint**. You will need the **Key 1** and **Endpoint** details later on.
 
+**NOTE:** If you plan to use Azure AD authentication, then the **Key 1** value is not required.
+
 3. Back at the **Overview** page in the **Get Started** section, click on **Explore**.  This will launch the **Azure AI Studio**. Once in Azure AI Studio, click on the **Deployments** link on the left hand side.
 
 ![Alt text](images/deployment-link.png)
@@ -46,7 +48,7 @@ Here's a detailed list of what you need to enter into the `.env` file and where 
 The first item `OPENAI_API_TYPE` can be set to one of two values, depending on how you plan to authenticate to the Azure OpenAI service. To use an API key, set this to `azure`. To use Azure AD authentication, set this to `azure_ad`.
 
 ```
-OPENAI_API_TYPE = "azure"
+OPENAI_API_TYPE = "azure_ad"
 ```
 
 If you're using Azure AD authentication, the `OPENAI_API_KEY` value can be left empty. It will be populated with an Azure AD token at runtime.
