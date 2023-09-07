@@ -2,9 +2,9 @@
 
 This repository introduces and helps organizations get started with building AI Apps and incorporating Large Language Models (LLMs) into them.
 
-## Workshop Agenda
+## Hands-on with OpenAI
 
-### 🌅 Morning (9:00 – 12:15)
+### Session 1
 
 > *Focus: Introduction, First Steps & Prompt Engineering*
 
@@ -16,18 +16,18 @@ This repository introduces and helps organizations get started with building AI 
   * Demo(s)
   * Break
   * 🧑🏼‍💻 [Lab #1 - Hands-on with Prompt Engineering Exercises](labs/01-prompts/README.md)
-* 📣 [Intro to AI Orchestration (60min)](presentations/README.md)
-  * AI Orchestration
-  * Demo(s)
 
-### 🌆 Afternoon (1:15 – 4:30)
+
+### Session 2
 
 > *Focus: Building AI Apps & Incorporating LLMs*
 
+* 📣 [Intro to AI Orchestration (60min)](presentations/README.md)
+  * AI Orchestration
+  * Demo(s)
 * 📣 [Intro to AI Orchestration Continued (135min)](presentations/README.md)
   * 💻 [Lab #2 - Hands-on with Integrating AI Exercises](labs/02-integrating-ai/README.md)
   * 💻 [Lab #3 - Hands-on with AI Orchestration Exercises](labs/03-orchestration/README.md)
-  * 💻 [Lab #4 - Hands-on with Deploying AI Exercises](labs/04-deploy-ai/README.md)
   * Break
 * Wrapping-up (60min)
   * Use Case Validation
