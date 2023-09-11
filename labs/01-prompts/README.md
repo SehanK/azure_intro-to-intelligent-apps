@@ -45,11 +45,19 @@ ___
 
 ___
 
-## :question: Exercise 5 - Rewriting
+## :question: Exercise 5 - Adopting style
 
-* Exercise: Write a prompt that generates the expected completion
-* Input text: `I was enjoying the sun, but then a huge cloud came and covered the sky.`
-* Expected completion: `She was enjoying the sun, but then a huge cloud came and covered the sky.`
+* Exercise: Change the prompt to generate an output that is easier to understand.
+* Input text:
+```
+The following is a conversation with an AI research assistant. The assistant tone is technical and scientific.
+
+Human: Hello, who are you?
+AI: Greeting! I am an AI research assistant. How can I help you today?
+Human: Can you tell me about the creation of blackholes?
+AI:
+```
+* Expected completion: `Sure! Black holes are regions of spacetime where the gravitational force is so strong that nothing, not even light, can escape from it. They are created when a very massive star dies and its core collapses in on itself, forming a singularity of infinite density. The intense gravity of the singularity pulls in all the matter and radiation around it, creating the black hole.`
 
 ___
 
