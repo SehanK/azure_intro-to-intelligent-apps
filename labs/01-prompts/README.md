@@ -13,9 +13,9 @@ ___
 
 ## :question: Exercise 2 - Negation
 
-* Exercise: Write a prompt that generates the expected completion
+* Exercise: Write a prompt that generates the expected completion and adds more context
 * Input text: `I was enjoying the sun, but then a huge cloud came and covered the sky.`
-* Expected completion: `I was not enjoying the sun, and then a huge cloud did not come and cover the sky.`
+* Expected completion: `I was not enjoying the sun, but then a huge cloud came and covered the sky, which I didn't like because the drop in temperature made me feel chilly. Moreover, the lack of sunlight made the surroundings appear dull and gloomy, which doesn't uplift my mood like a sunny day does.`
 
 ___
 
